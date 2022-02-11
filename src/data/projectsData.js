@@ -7,10 +7,10 @@ export const projectsData = [
   {
     id: 1,
     projectName: "LYNDA CLONE 2.0",
-    projectDesc: "A Edtech web application for online learning and teaching",
+    projectDesc: "A Platform to learn business,creative and technology skills.",
     tags: [
       ["Tech Stacks :"],
-      // ["HTML | TAILWIND CSS | EJS Express | MongoDB"],
+      // ["HTML |CSS | EJS Express | MongoDB"],
       [
         <FaHtml5 color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
         <FaCss3 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
@@ -27,10 +27,10 @@ export const projectsData = [
   {
     id: 2,
     projectName: "LYNDA CLONE",
-    projectDesc: "A Edtech web application for online learning and teaching",
+    projectDesc: "A Platform to learn business,creative and technology skills.",
     tags: [
       ["Tech Stacks :"],
-      // ["HTML | TAILWIND CSS | JAVASCRIPT | Mock Server"],
+      // ["HTML | CSS | JAVASCRIPT | Mock Server"],
       [
         <FaHtml5 color="#F9A825" style={{ marginLeft: 20, marginTop: 5, }} size={25} />,
         <FaCss3 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
@@ -39,7 +39,7 @@ export const projectsData = [
       ],
     ],
     code: "",
-    demo: "",
+    demo: "https://620641ea7e475d9219b99401--affectionate-leakey-0e07e7.netlify.app/",
     image:
     "",
   },

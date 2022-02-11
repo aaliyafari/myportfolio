@@ -178,7 +178,7 @@ function Landing() {
             <span style={{ color: "#F9A825", fontWeight: 'bold', fontSize: '20px'}}>
           {/* Style will be inherited from the parent element */}
           <Typewriter
-            words={['MERN Stack Developer', 'Designing', 'Developing' ]}
+            words={['MERN Stack Developer', 'Creative Designing', 'Developing' ]}
             loop={100}
             cursor
             cursorStyle='_'
