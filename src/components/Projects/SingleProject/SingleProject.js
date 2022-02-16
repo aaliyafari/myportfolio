@@ -14,8 +14,8 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
       width: 40,
       height: 40,
       borderRadius: 50,
-      border: `2px solid ${theme.tertiary}`,
-      color: theme.tertiary,
+      border: `2px solid ${theme.secondary}`,
+      color: theme.secondary,
       transition: "all 0.2s",
       "&:hover": {
         backgroundColor: theme.secondary,
@@ -43,7 +43,7 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
         <div className="projectContent">
           <h2
             id={name.replace(" ", "-").toLowerCase()}
-            style={{ color: theme.tertiary }}
+            style={{ color: theme.secondary }}
           >
             {name}
           </h2>
@@ -52,8 +52,8 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
         <p
           className="project--desc"
           style={{
-            background: theme.secondary,
-            color: theme.tertiary,
+            background: theme.primary400,
+            color: theme.secondary,
           }}
         >
           {desc}
@@ -61,8 +61,8 @@ function SingleProject({ id, name, desc, tags, code, demo, image, theme }) {
         <div
           className="project--lang"
           style={{
-            background: theme.secondary,
-            color: theme.tertiary,
+            background: theme.primary400,
+            color: theme.secondary,
           }}
         >
           {tags.map((tag, id) => (

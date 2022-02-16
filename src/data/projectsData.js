@@ -1,8 +1,8 @@
-import { FaHtml5, FaCss3, FaServer, FaNode } from "react-icons/fa";
-import {
-  SiJavascript,
-  SiMongodb,
-} from "react-icons/si";
+// import { FaHtml5, FaCss3, FaServer, FaNode } from "react-icons/fa";
+// import {
+//   SiJavascript,
+//   SiMongodb,
+// } from "react-icons/si";
 export const projectsData = [
   {
     id: 1,
@@ -10,14 +10,14 @@ export const projectsData = [
     projectDesc: "A Platform to learn business,creative and technology skills.",
     tags: [
       ["Tech Stacks :"],
-      // ["HTML |CSS | EJS Express | MongoDB"],
-      [
-        <FaHtml5 color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
-        <FaCss3 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
-        <SiJavascript color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
-        <FaNode color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
-        <SiMongodb color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
-      ],
+       ["HTML |CSS | EJS Express | MongoDB"],
+      // [
+      //   <FaHtml5 color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
+      //   <FaCss3 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
+      //   <SiJavascript color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
+      //   <FaNode color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
+      //   <SiMongodb color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
+      // ],
     ],
     code: "https://github.com/aaliyafari/LyndaCloneTeam18.git",
     demo: "",
@@ -30,13 +30,13 @@ export const projectsData = [
     projectDesc: "A Platform to learn business,creative and technology skills.",
     tags: [
       ["Tech Stacks :"],
-      // ["HTML | CSS | JAVASCRIPT | Mock Server"],
-      [
-        <FaHtml5 color="#F9A825" style={{ marginLeft: 20, marginTop: 5, }} size={25} />,
-        <FaCss3 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
-        <SiJavascript color="#F9A825" style={{ marginLeft: 20, marginTop: 5, }} size={25} />,
-        <FaServer color="#F9A825" style={{ marginLeft: 20, marginTop: 5, }} size={25} />,
-      ],
+      ["HTML | CSS | JAVASCRIPT | Mock Server"],
+      // [
+      //   <FaHtml5 color="#F9A825" style={{ marginLeft: 20, marginTop: 5, }} size={25} />,
+      //   <FaCss3 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
+      //   <SiJavascript color="#F9A825" style={{ marginLeft: 20, marginTop: 5, }} size={25} />,
+      //   <FaServer color="#F9A825" style={{ marginLeft: 20, marginTop: 5, }} size={25} />,
+      // ],
     ],
     code: "",
     demo: "https://620641ea7e475d9219b99401--affectionate-leakey-0e07e7.netlify.app/",
@@ -50,12 +50,12 @@ export const projectsData = [
       "A web application that allows users to purchase all kinds of groceries, vegetables, fruits.",
     tags: [
       ["Tech Stacks :"],
-      // ["HTML | CSS | JAVASCRIPT"],
-      [
-        <FaHtml5 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
-        <FaCss3 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
-        <SiJavascript color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
-      ],
+      ["HTML | CSS | JAVASCRIPT"],
+      // [
+      //   <FaHtml5 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
+      //   <FaCss3 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
+      //   <SiJavascript color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
+      // ],
     ],
     code: "https://github.com/aaliyafari/BigBasketclone_constructweek.git",
     demo: "https://aaliyafari.github.io/BigBasketclone_constructweek/homepage.html",
