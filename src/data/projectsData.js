@@ -38,7 +38,7 @@ export const projectsData = [
       //   <FaServer color="#F9A825" style={{ marginLeft: 20, marginTop: 5, }} size={25} />,
       // ],
     ],
-    code: "",
+    code: "https://github.com/aaliyafari/LyndaCloneTeam18_U3.git",
     demo: "https://620641ea7e475d9219b99401--affectionate-leakey-0e07e7.netlify.app/",
     image:
     "https://user-images.githubusercontent.com/94215613/153593752-7e907c4d-9fc4-4852-bbf6-abd7c62a5118.png",
