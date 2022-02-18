@@ -159,7 +159,7 @@ function Landing() {
         </div>
         <img
           // src={headerData.image}
-          src='/profilepic.jpg
+          src='/profilepic.jpeg
           '
           alt=""
           className="landing--img"
