@@ -4,13 +4,13 @@
 //   SiMongodb,
 // } from "react-icons/si";
 export const projectsData = [
-  {
-    id: 1,
-    projectName: "LYNDA CLONE 2.0",
-    projectDesc: "A Platform to learn business,creative and technology skills.",
-    tags: [
-      ["Tech Stacks :"],
-       ["HTML |CSS | EJS Express | MongoDB"],
+  // {
+  //   id: 1,
+    // projectName: "LYNDA CLONE 2.0",
+    // projectDesc: "A Platform to learn business,creative and technology skills.",
+    // tags: [
+    //   ["Tech Stacks :"],
+    //    ["HTML |CSS | EJS Express | MongoDB"],
       // [
       //   <FaHtml5 color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
       //   <FaCss3 color="#F9A825" style={{ marginLeft: 30, marginTop: 5, }} size={25} />,
@@ -18,12 +18,12 @@ export const projectsData = [
       //   <FaNode color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
       //   <SiMongodb color="#F9A825" style={{ marginLeft: 18, marginTop: 5, }} size={25} />,
       // ],
-    ],
-    code: "https://github.com/aaliyafari/LyndaCloneTeam18.git",
-    demo: "",
-    image:
-      "https://user-images.githubusercontent.com/94215613/153593752-7e907c4d-9fc4-4852-bbf6-abd7c62a5118.png",
-  },
+    // ],
+  //   code: "https://github.com/aaliyafari/LyndaCloneTeam18.git",
+  //   demo: "",
+  //   image:
+  //     "https://user-images.githubusercontent.com/94215613/153593752-7e907c4d-9fc4-4852-bbf6-abd7c62a5118.png",
+  // },
   {
     id: 2,
     projectName: "LYNDA CLONE",
